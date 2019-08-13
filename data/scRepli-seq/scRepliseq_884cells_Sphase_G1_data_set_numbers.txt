@@ -1,0 +1,10 @@
+Sample_set	numbers
+d0	165
+d2	119
+d3	50
+d4	52
+d5	62
+d6	64
+d7	219
+EpiSC	74
+G1	79
