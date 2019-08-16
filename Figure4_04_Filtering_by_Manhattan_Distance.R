@@ -4,8 +4,6 @@ library(msir)
 library(fields)
 library(matlab)
 
-dir="/Users/hisashimiura/Documents/RIKEN_2019/190722_HiC_paper_custom_scripts/"
-setwd(dir)
 
 load("data/scRepliseq_884cells_Sphase_G1_data_set.Rdata") #As scRepliseq_884cells_Sphase_G1_data_set
 sample_sizes=read.table("data/scRepliseq_884cells_Sphase_G1_data_set_numbers.txt",sep="\t",header=T)
