@@ -41,6 +41,7 @@ G1\_cells => G1 cell or not (1 means G1 cell)
 IQR\_filter => Outlier cells based on IQR filtering step using SPRING result  
 (See "Figure4\_03\_SPRING\_data\_plot.R" or "Figure4\_04\_Filtering\_by\_Manhattan\_Distance.R")  
 (1 means outlier cells)  
+
 out\_5\_95\_rep => S phase samples with 0.05 < repliscores < 0.95 as 1  
 
 Man\_filter => S phase samples filtered out by manhattan distance  
