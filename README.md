@@ -12,3 +12,4 @@ https://github.com/kuzobuta/hic_paper_NG_2019/tree/master/data/hic_files
 
 Processed binarized scRepli-seq profiles of 884 single cells at 80-kb bins are available on the following links
 
+https://github.com/kuzobuta/hic_paper_NG_2019/tree/master/data/scRepli-seq
