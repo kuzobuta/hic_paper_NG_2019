@@ -15,21 +15,21 @@ Txt format of binarized scRepli-seq profile at 80-kb bins.
 Same information as "scRepliseq_884cells_Sphase_G1_data_set.Rdata".  
 -1: unreplicated, 1: replicated, 0: no data
 
-###scRepliseq_884cells_Sphase_G1_data_set_filtered.txt.zip:
+### scRepliseq_884cells_Sphase_G1_data_set_filtered.txt.zip:
 
 Filtered binarized scRepli-seq profile at 80-kb bins.  
 See "Figure4\_01\_Filtering\_scRepliseq\_data.R"
 
-###scRepliseq_884cells_Sphase_G1_data_set_numbers.txt:
+### scRepliseq_884cells_Sphase_G1_data_set_numbers.txt:
 
 The number of each sample set.
 
-###scRepliseq_SPRING_pos.txt:
+### scRepliseq_SPRING_pos.txt:
 
 Output file by "Figure4\_02\_Run\_SPRING.py"  
 Position of each single cell profile after SPRING analysis
 
-###All_Sample_Info_filtering.txt:
+### All_Sample_Info_filtering.txt:
 
 QC of each single cell data.  
 See "Figure4\_04\_Filtering\_by\_Manhattan\_Distance.R"
