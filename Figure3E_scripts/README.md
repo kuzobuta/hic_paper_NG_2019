@@ -27,7 +27,7 @@ Figure3E in Miura et al., Nature genetics (2019)
 ```
 #setup
 git clone https://github.com/kuzobuta/hic_paper_NG_2019.git
-cd hic_paper_NG_2019/
+cd hic_paper_NG_2019/Figure3E_scripts
 ```
 
 **0: Generation of gene density track**
