@@ -26,8 +26,6 @@ Figure3E in Miura et al., Nature genetics (2019)
 
 **0: Generation of gene density track**
 
-`00-Generate_GD_file.sh` `binsize` `sizename`
-
 ```bash
 ./00-Generate_GD_file.sh 200000 200kb \
 ../data/reference/mm9.chrom.sizes \
