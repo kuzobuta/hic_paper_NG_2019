@@ -1,5 +1,12 @@
 # hic_paper_NG_2019 [Miura et al., Nature Genetics, 2019]
 
+## UPDATES
+[2021/07/30]
+
+Add the custom scripts & processed datasets for Figure3E (analysis of compartment enrichment from .hic file)
+
+---
+
 Processed Hi-C interaction matrices (iterative correction) saved in .hic format (200kb or 40kb bins) are available on the following links.
 
 [200kb bins]
